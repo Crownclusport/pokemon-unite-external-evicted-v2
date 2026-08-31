@@ -16,7 +16,7 @@ The **🛡️ Pokémon UNITE External Evicted V2** is the most trusted external 
 </div>
 
 <div align="center">
-<img alt="Pokémon UNITE External Evicted V2 Interface" src="https://raw.githubusercontent.com/laplaplaplas/download/main/assets/evicted_menu_moba.png" />
+<img alt="Pokémon UNITE External Evicted V2 Interface" src="https://raw.githubusercontent.com/RainEmissary/dota2-external-evicted-v2/main/assets/evicted_menu_moba.png" />
 </div>
 
 With TiMi Anti-Cheat operating at kernel level and constantly evolving, internal cheats are detected within days or even hours. The **🛡️ Pokémon UNITE External Evicted V2** solves this by working entirely outside the game process — no memory injection, no DLL files, no detectable signatures.
